@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-A game of "rock paper scissors" against the computer.
+A simple game of "rock paper scissors" against the computer built in JavaScript.
